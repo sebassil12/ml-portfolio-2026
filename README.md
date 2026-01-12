@@ -1,4 +1,3 @@
-
 # ML portfolio | Anddy Silva
 
 This repository is create for demonstrating ML fundamentals and scikit-learn skills

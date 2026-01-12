@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+fraud/
+.fraud/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Entornos y Variables (Seguridad) ---
+.env
+.env.local
+
+# --- IDEs y Editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- Logs y Bases de Datos Locales ---
+*.log
+*.sqlite3
+
+# --- OS ---
+.DS_Store
+Thumbs.db
