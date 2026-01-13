@@ -33,3 +33,6 @@ Thumbs.db
 # Dataset
 data/
 .data/
+
+# Models
+*.pkl
